@@ -1,7 +1,6 @@
 ---
 layout: page
-title: This is a title text
+title: Atomic
 ---
 
-# placeholder
 

@@ -3,8 +3,6 @@ layout: page
 title: Powers
 ---
 
-[Back to Home](../../index.md)
-
 * [Atomic](atomic/index.md)
 * [Celestial](celestial/index.md)
 * [Earth](earth/index.md)

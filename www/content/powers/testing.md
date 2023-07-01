@@ -1,7 +1,7 @@
 ---
 layout: page
+title: Notes on Testing
 ---
 
-# Notes on Testing
 
 
