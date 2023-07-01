@@ -1,2 +1,6 @@
+---
+layout: page
+---
+
 # placeholder
 

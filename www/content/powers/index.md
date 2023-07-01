@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Powers
 
 [Back to Home](../../index.md)
