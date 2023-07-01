@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Powers
 ---
-
-# Powers
 
 [Back to Home](../../index.md)
 
