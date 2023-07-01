@@ -1,0 +1,20 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: a collection of my personal DCUO knowledge
+      - title: about me
+        urL: content/about.md
+
+  - title: categories
+    entries:
+      - title: damage formula
+        url: content/damage_formula.md
+      - title: powers reference
+        url: content/powers/index.md
+      - title: alerts guide
+        url: google.com
+      - title: raids guide
+        url: google.com
