@@ -6,14 +6,14 @@ entries:
     entries:
       - title: a collection of my personal DCUO knowledge
       - title: about me
-        urL: content/about.md
+        urL: /content/about.html
 
   - title: categories
     entries:
       - title: damage formula
-        url: content/damage_formula.md
+        url: /content/damage_formula.html
       - title: powers reference
-        url: content/powers/index.md
+        url: /content/powers/index.html
       - title: alerts guide
         url: google.com
       - title: raids guide
