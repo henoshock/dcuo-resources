@@ -6,7 +6,7 @@ entries:
     entries:
       - title: a collection of my personal DCUO knowledge
       - title: about me
-        urL: about.html
+        urL: /about.html
 
   - title: categories
     entries:
