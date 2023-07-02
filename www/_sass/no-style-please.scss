@@ -19,7 +19,7 @@ body[a="dark"] { @include dark-appearance; }
 // bg color is also needed in html in order to
 // block body's background propagation
 // see: https://stackoverflow.com/a/61265706
-html, body { background: #FAF0F0; }
+html, body { background: #FdF8F8; }
 
 html { height: 100%; }
 
@@ -34,19 +34,19 @@ body {
 }
 
 a:link {
-  color: #07077A;
+  color: #0404BD;
 }
 
 a:visited {
-  color: #311448;
+  color: #43176A;
 }
 
 a:hover {
-  color: #0405A0;
+  color: #0202D3;
 }
 
 a:active {
-  color: #3D165E;
+  color: #491875;
 }
 
 .post-meta { text-align: right; }
