@@ -5,25 +5,25 @@ layout: page
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
 
-\(math \alpha \beta\) test
+\\(math \alpha \beta\\) test
 
-\[
+\\[
 equation test \alpha \beta \bar{x} X \sim \text{Unif} (a, b) \\
 asdf \\
 \begin{pmatrix}
 1 & n \\
 n & 1
 \end{pmatrix}
-\]
+\\]
 
-\(\begin{align*}
-another equation test &= asdf
+\\(\begin{align*}
+another equation test &= asdf \\
 &= asdfweoi 234 \int_0^1 f (x) \ dx
-\end{align*}\)
+\end{align*}\\)
 
-\begin{align*}
+\\begin{align*}
 environment test
-\end{align*}
+\\end{align*}
 
 ```
 asdfkjeifj = eifjeifj
