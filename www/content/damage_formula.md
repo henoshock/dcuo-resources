@@ -11,7 +11,7 @@ layout: page
 equation test \alpha \beta \bar{x} X \sim \text{Unif} (a, b) \\
 asdf \\
 \begin{pmatrix}
-1 & n \\
+1 & n \\\\
 n & 1
 \end{pmatrix}
 \\]
