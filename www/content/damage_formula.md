@@ -8,22 +8,27 @@ layout: page
 \\(math \alpha \beta\\) test
 
 \\[
-equation test \alpha \beta \bar{x} X \sim \text{Unif} (a, b) \\
-asdf \\
-\begin{pmatrix}
-1 & n \\\\
-n & 1
+equation test \alpha \beta \bar{x} X \sim \text{Unif} (a, b)
+\\ asdf
+\\ \begin{pmatrix}
+1 & n
+\\ n & 1
 \end{pmatrix}
 \\]
 
-\\(\begin{align*}
-another equation test &= asdf \\
-&= asdfweoi 234 \int_0^1 f (x) \ dx
-\end{align*}\\)
+\\[\begin{align*}
+another equation test &= asdf
+\\ &= asdfweoi 234 \int_0^1 f (x) \ dx
+\end{align*}\\]
 
-\\begin{align*}
+\[\begin{align*}
+another equation test &= asdf
+\\ &= asdfweoi 234 \int_0^1 f (x) \ dx
+\end{align*}\]
+
+\(\begin{align*}
 environment test
-\\end{align*}
+\end{align*}\)
 
 ```
 asdfkjeifj = eifjeifj
