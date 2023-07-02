@@ -3,6 +3,7 @@ layout: page
 title: Powers
 ---
 
+* [Iconics and Movement](iconics_mm/index.md)
 * [Atomic](atomic/index.md)
 * [Celestial](celestial/index.md)
 * [Earth](earth/index.md)
