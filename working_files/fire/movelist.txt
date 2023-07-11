@@ -1,0 +1,24 @@
+
+[x] fireball
+[x] flashpoint
+[x] backdraft
+[x] detonate
+[x] wildfire
+[x] engulf
+
+[x] spontaneous combustion
+[x] meteor strike
+
+[x] overheat
+
+[x] absorb heat
+[x] snuff out
+
+[x] flame cascade
+
+[x] fireburst
+[x] mass det
+
+[x] inferno
+[x] stoke flames
+[x] enflame

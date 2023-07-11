@@ -1,0 +1,19 @@
+table formatting
+	name
+	base tick range
+	total damge
+	duration
+	ttr
+
+	place desired table headers into a .yml under /_data
+	when creating tables, check if col name matches those headers using `contains`
+base damage testing for all powers
+precision damage testing
+strat card
+	proc damage
+	proc chance
+guides
+	artifact opinions
+	sample loadouts + theoretical maximum damage
+	might dps theory?
+

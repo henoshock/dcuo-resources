@@ -1,0 +1,25 @@
+might 163641
+with strat card
+
+0: [daze pi]
+tk pull, tk push, tk bolt | phantom flames, mass terror, psychic shock
+
+1: [daze pi]
+tornado pull, invis | [mass lev, tk pull, tk bolt, tk push]x2
+{invis} sleep -> pain blast
+
+2: [terror pi]
+tornado pull, invis | [horrific visage, mass teror, psychic shock, phantom flames]x2
+{invis} sleep -> pain blast
+
+4: [misc]
+terrorize, psychic prison, pyrokinesis, cryokinesis, cyclone push
+
+5: [misc 2]
+thought bubble, pyrokinesis, cryoknesis, telekinesis, terror tendrils
+
+
+
+
+
+
