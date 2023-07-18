@@ -1,0 +1,9 @@
+598 hp
+299 def
+239 might
+119 resto
+74 vit
+149 prec
+2500 toughness
+119 dom
+239 wr

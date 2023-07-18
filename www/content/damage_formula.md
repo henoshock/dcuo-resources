@@ -34,15 +34,18 @@ Source | Percent
 --- | ---
 being in Damage role | 10%
 Max Damage hand mod | 2%
+League Hall Proficiency | 3%
 Core Strength chest mod | 2%
 Transformation Card | -21% / -19% / -17% / -15% 
 
 \\( I \\) depends heavily on the target's defense statistic. At each CR, there is an expected defense, which we can denote \\( \Delta_{CR} \\); this should be equal to your defense if you were wearing a full set of DPS gear at the same item level with no additional defense modifiers, and is the defense that most enemies will have. Then \\( I = 0.8 \times \text{Defense} / \Delta_{CR} \\).\
-Bosses in difficulty tiers higher than elite have increased defense. In raids with stages of Elite, each boss has an additive 25% increase in their defense, up to 100% (doubled) in Critical. Elite Plus bosses also have this doubled defense.
+* Bosses in difficulty tiers higher than elite have increased defense. In raids with stages of Elite, each boss has an additive 25% increase in their defense, up to 100% (doubled) in Critical. Elite Plus bosses also have this doubled defense.
 
 \\( P \\) is basically only affected by whether or not the user has the Penetrating Strikes chest mod. It technically modifies \\( I \\), but is applied only for yourself, and only to the target's current defense, therefore after any of the target's defense modifiers. With the mod, \\( P = 1 / 0.98 \\), otherwise \\( P = 1 \\).
 
-## General Splitting Rule
+---
+
+## Splitting Rules
 
 Most AoE superpowers split damage at 3 or more targets. Typically, if a superpower does \\( D \\) damage to 1 target, then it will deal \\( 2D / n \\) damage to each of \\( n > 1 \\) targets, for a total of \\( 2D \\) damage.
 
@@ -51,6 +54,8 @@ No. of targets | Damage to each
 \\( 1 \\) | \\( D \\)
 \\( 2 \\) | \\( D \\)
 \\( n > 2 \\) | \\( 2D / n \\)
+
+Some superpowers have a slightly different splitting rule. These will designate your *primary target*, and then all remaining enemies in range as *secondary targets*. In an AoE situation, the primary target will take \\( D \\) damage, and then all secondary targets will have \\( D \\) damage split among them evenly. The total damage is still \\( 2D \\). Superpowers which follow this splitting rule include Fire's *Spontaneous Combustion*, Mental's *Horrific Visage*, and Gadgets' *Sticky Bomb*.
 
 
 \\(math \alpha \beta\\) test

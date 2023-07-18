@@ -1,0 +1,3 @@
+anm	lower	upper	avg	ticks	range	avg_td	ct	dpct	aoe	aoe_dpct	ttr
+
+=CONCAT("[",B2,",",C2,"]"," x",E2)

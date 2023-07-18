@@ -11,7 +11,7 @@ Each line in the log corresponds to an event, in the following format:
 [time] [data] [category] [text]
 ```
 
-* `[time]`: when the line was written, given in microseconds. This appears to be a `datetime`-like type, though I'm not sure where the origin is; most useful to calculate elapsed time between two different lines. Note however that the time when the line was written can be different from when the attack actually registers by a few seconds.
+* `[time]`: When the line was written, given in microseconds. This appears to be a `datetime`-like type, though I'm not sure where the origin is; most useful to calculate elapsed time between two different lines. Note however that the time when the line was written can be different from when the attack actually registers by a few seconds.
 * `[data]`: A valid(?) JSON containing some key-value pairs, giving further information about the event. Some categories do not have this part.
     * \* insert list of possible keys
 * `[category]`: What sort of event it was.

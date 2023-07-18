@@ -10,10 +10,8 @@ entries:
 
   - title: categories
     entries:
-      - title: damage formula
-        url: content/damage_formula
-      - title: powers reference
-        url: content/powers/index
+      - title: main site content
+        url: content
       - title: alerts guide
         url: https://www.google.com/
       - title: <a href="google.com">raids guide</a>

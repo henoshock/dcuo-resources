@@ -1,0 +1,19 @@
+might m112026
+equip strat card
+put in body augs
+
+0: [no pi, staggered loops: less iterations]n40 m112026
+condemn, {shard of life { vengeance, soul storm, soul bolt } }
+
+1: [long cd dots: less iterations]n40 m176413
+soul well | circle of destruction, condemn | [soul siphon, shard of life, final ruin]x2
+
+2: [pi 2: single casts]n120
+karmic backlash | transmutation, karmic suspension | soul bolt, vengeance
+
+4: [pi 3 spam: less iterations]n40
+soul well | [soul siphon, soul storm, soul barrage]x3
+
+5: [acro]n120
+grapple line attack, throwing knives, zip tie attack, backflip attack, forward flip attack, launching roll
+

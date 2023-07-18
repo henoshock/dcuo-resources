@@ -42,5 +42,3 @@ Then the animation time of power `A` is found by `start - stop`.
 
 Some human error, server lag, etc. is to be expected during this process, so this should be repeated several times. I used the most replicable results to match actual DPS as much as possible, being conservative (tending towards longer times).
 
-`Time to Reuse` is generally equal to `cooldown - animation time`, though may differ in the case of channels.
-
