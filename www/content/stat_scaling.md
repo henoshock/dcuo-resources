@@ -3,6 +3,9 @@ layout: page
 title: How Stats Scale
 ---
 
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+
 *note: this page contains largely technical information*
 
 Here are a few terms:
@@ -17,10 +20,6 @@ Some general observations:
 * OP gear considers every stat as a *primary stat*, except for power (which is never a primary stat).
 
 # Gear
-
-Here we focus on how the amount of stats a certain piece of gear gives is determined.
-
-## Combat Rating
 
 There are 13 different types of gear, which we can split into 8 pieces of *armor* and 5 *accessories*:
 <table>
@@ -89,7 +88,7 @@ There are 13 different types of gear, which we can split into 8 pieces of *armor
     </tbody>
 </table>
 
-Each piece of gear has an *item level* (ilvl); Combat Rating (CR) is equal to 115% of the weighted average of your gear's ilvls.
+Each piece of gear has an *item level* (ilvl). Combat Rating (CR) is equal to 115% of the weighted average of your gear pieces' ilvls.
 
 For a given item level, the amount of stats each piece of gear, relative to other pieces of gear, is given by the ratio of their CR weights. For example, a weapon has a weight of 10%. A neck piece has a weight of 5%, and will give half the amount of stats as the weapon.
 
@@ -108,6 +107,7 @@ where \\( S_\text{Gear} \\) is the amount of **s**tats the gear gives, with comp
 For non-tank gear, only "armor" type gear has defense, and is calculated with the above formula. For tank gear, all gear has the full amount of defense as calculated with the above formula.
 
 The base stats \\( A_\text{Gear} \\) are given below.
+
 | Stat | A_\text{Gear} |
 |---|---|
 | Health | 2000 |
